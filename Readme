@@ -1,0 +1,13 @@
+This game is created in C.
+You must compile it through the Makefile to start the game.
+-----------------------------------------------------------------
+
+Commands in the terminal:
+> make
+> ./endgame
+
+-----------------------------------------------------------------
+
+Have a nice play! ;)
+
+© rubanik00 and others.
